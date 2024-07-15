@@ -1,0 +1,39 @@
+{
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Min Dark",
+  "workbench.iconTheme": "symbols",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontWeight": "400",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "workbench.startupEditor": "newUntitledFile",
+  "symbols.hidesExplorerArrows": false,
+  "editor.renderLineHighlight": "none",
+  "editor.fontLigatures": true,
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.activityBar.location": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.minimap.enabled": false,
+  "workbench.statusBar.visible": false,
+  "window.titleBarStyle": "custom",
+  "apc.header": {
+    "height": 36
+  },
+  "apc.listRow": {
+    "height": 24
+  },
+  "apc.stylesheet": {
+    ".editor-actions": "display: none",
+    ".pane-header": "padding: 0 8px",
+    ".nosidebar .inline-tabs-placeholder": "width: 75px",
+    ".split-view-view:first-child .pane-header": "display: none !important",
+    ".monaco-list-row": "border-radius: 4px",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none"
+  },
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "terminal.integrated.fontSize": 14,
+}
